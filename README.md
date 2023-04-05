@@ -40,10 +40,7 @@ Sou desenvolvedor full stack web, formado em ciências da computação com espec
 
 
 ## 
-
-<a href="https://github.com/alexandroTO">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexandroTO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandroTO&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=alexandroTO&show_icons=true&theme=algolia&count_private=true&layout=compact)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandroTO&layout=compact&langs_count=8&theme=algolia&count_private=true)](https://github.com/alexandroTO/github-readme-stats)
+    
 ![Profile views counter](https://komarev.com/ghpvc/?username=alexandroTO&&style=flat-square)  
