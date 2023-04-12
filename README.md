@@ -1,10 +1,10 @@
-Olá, meu nome é Alexandro sou formado em Ciências da Computação com especialização em Engenharia de Software e tenho ênfase em Teste e Qualidade. Há cerca de quatro anos, trabalho como desenvolvedor web, e atualmente sou responsável pelo desenvolvimento e manutenção de sites e sistemas institucionais para uma software house de uma renomada instituição de ensino.
+Olá, meu nome é Alexandro Tiago Oliveira e sou um desenvolvedor web com mais de 10 anos de experiência em tecnologia. Atualmente, trabalho como Desenvolvedor Front-end no Centro Universitário FAG, onde sou responsável por desenvolver soluções inovadoras e criativas para melhorar a experiência do usuário em plataformas de pagamento digital.
 
-Ao longo da minha carreira, tenho desenvolvido habilidades em diversas áreas, incluindo programação em linguagens como JavaScript, PHP e Python, bancos de dados relacionais e não relacionais, além de ter experiência em desenvolvimento de aplicativos móveis e integrações com APIs de terceiros.
+Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, incluindo o desenvolvimento de sistemas de gerenciamento de conteúdo e portais corporativos para grandes empresas. Tenho habilidades em HTML, CSS, JavaScript, AngularJS, ReactJS e VueJS, além de experiência em desenvolvimento de aplicativos móveis híbridos.
 
-Tenho grande interesse em estar sempre atualizado em relação às novas tecnologias e tendências do mercado, buscando sempre melhorar minhas habilidades técnicas e meu conhecimento em design e usabilidade para proporcionar aos usuários a melhor experiência possível.
+Sou um profissional proativo e apaixonado pelo que faço, sempre buscando novos desafios e oportunidades para aprender e aprimorar minhas habilidades técnicas. Acredito que a tecnologia pode ser uma poderosa ferramenta para criar soluções inovadoras que possam transformar a vida das pessoas e o mundo em que vivemos.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e habilidades em projetos web, com o objetivo de contribuir para o sucesso e crescimento das empresas em que atuo.
+Se você estiver interessado em saber mais sobre mim e minha experiência profissional, sinta-se à vontade para entrar em contato. Estou sempre em busca de novas oportunidades para contribuir com meu conhecimento e habilidades em projetos desafiadores.
 <br/><br/>
 ## 🖥️ Linguagens e ferramentas que já utilizei
 <br/>
