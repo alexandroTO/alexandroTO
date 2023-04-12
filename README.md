@@ -1,10 +1,8 @@
-Olá, meu nome é Alexandro Tiago Oliveira e sou um desenvolvedor web com mais de 10 anos de experiência em tecnologia. Atualmente, trabalho como Desenvolvedor Front-end no Centro Universitário FAG, onde sou responsável por desenvolver soluções inovadoras e criativas para melhorar a experiência do usuário em plataformas de pagamento digital.
+Sou um desenvolvedor web com formação em Ciências da Computação e especialização em Engenharia de Software. Tenho experiência em programação web e atualmente trabalho em uma software house de uma instituição de ensino, onde desenvolvo e faço a manutenção de sites e sistemas institucionais.
 
-Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, incluindo o desenvolvimento de sistemas de gerenciamento de conteúdo e portais corporativos para grandes empresas. Tenho habilidades em HTML, CSS, JavaScript, AngularJS, ReactJS e VueJS, além de experiência em desenvolvimento de aplicativos móveis híbridos.
+Minhas habilidades incluem programação em JavaScript, PHP e Python, além de trabalhar com bancos de dados e aplicativos móveis. Busco sempre me manter atualizado em relação às novas tecnologias e tendências do mercado para proporcionar a melhor experiência aos usuários.
 
-Sou um profissional proativo e apaixonado pelo que faço, sempre buscando novos desafios e oportunidades para aprender e aprimorar minhas habilidades técnicas. Acredito que a tecnologia pode ser uma poderosa ferramenta para criar soluções inovadoras que possam transformar a vida das pessoas e o mundo em que vivemos.
-
-Se você estiver interessado em saber mais sobre mim e minha experiência profissional, sinta-se à vontade para entrar em contato. Estou sempre em busca de novas oportunidades para contribuir com meu conhecimento e habilidades em projetos desafiadores.
+Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos web e contribuir para o sucesso das empresas em que atuo
 <br/><br/>
 ## 🖥️ Linguagens e ferramentas que já utilizei
 <br/>
